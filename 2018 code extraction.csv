@@ -1,0 +1,594 @@
+﻿Data;Program
+80001;Albania: Lower secondary education
+80002;Albania: Upper secondary education
+80003;Albania: Secondary education, vocational variant
+80004;Albania: Secondary education,technical variant
+80005;Albania: Secondary education for adults(upper)
+80099;Albania: Missing
+310001;Baku (Azerbaijan) : Lower secondary education
+310002;Baku (Azerbaijan) : Upper secondary education
+310003;Baku (Azerbaijan) : Post-secondary non-tertiary education
+310004;Baku (Azerbaijan) : Short-cycle tertiary education
+310099;Baku (Azerbaijan) : Missing
+320001;Argentina: Primary - 7th year
+320002;Argentina: General Programme - Lower  Secondary  (1st, 2nd and 3rd year)
+320003;Argentina: General Programme - Upper  Secondary  (4th, 5th and  6th year)
+320004;Argentina: Vocational Programme - Lower  Secondary  (1st, 2nd and 3rd year)
+320005;Argentina: Vocational programme - Upper  Secondary  (4th, 5th, 6th  and 7th year)
+320006;Argentina: General Programme - Lower  Secondary  (1st  and 2nd year)
+320007;Argentina: General Programme - Upper  Secondary  (3th, 4th and 5th year)
+320008;Argentina: Vocational Programme - Lower  Secondary  (1st and 2nd year)
+320009;Argentina: Vocational programme - Upper  Secondary  (3th, 4th , 5th and 6th   year)
+320010;Argentina: Adults Primary Programme (3th and 4th year)
+320011;Argentina: Adults Lower Secondary Programme (1st, 2nd and 3rd year)
+320012;Argentina: Adults Upper Secondary Programme   (4th, 5th and  6th year)
+320013;Argentina: Adults Lower Secondary Programme (1st and 2nd year)
+320014;Argentina: Adults Upper Secondary Programme (3th, 4th and 5th year)
+320015;Argentina: Pre-vocational programme for Adults
+320099;Argentina: Missing
+360001;Australia: Lower secondary general academic
+360002;Australia: Lower secondary  with some VET subjects
+360003;Australia: Upper secondary general academic
+360004;Australia: Upper secondary with some VET subjects
+360005;Australia: Upper secondary VET course
+360099;Australia: Missing
+400001;Austria: Upper Primary school
+400002;Austria: New Secondary school/Lower Secondary school
+400003;Austria: Pre-vocational school (grade 7-8)
+400004;Austria: Pre-vocational school (grade 9)
+400005;Austria: Special education school (lower secondary)
+400006;Austria: Special eduction school (upper secondary)
+400007;Austria: Academic secondary school lower level
+400008;Austria: Academic secondary school upper level
+400009;Austria: Lower Secondary school
+400010;Austria: Upper Secondary school
+400011;Austria: Vocational school for apprentices
+400012;Austria: Intermediate technical and vocational school (3 and 4 years)
+400013;Austria: Intermediate technical and vocational school (1 and 2 years)
+400014;Austria: Intermediate technical and vocational school (agricultural 1 year)
+400015;Austria: Higher technical and vocational college (grade 9-11)
+400016;Austria: Higher technical and vocational college (grade 12-13)
+400017;Austria: Higher vocational college
+400099;Austria: Missing
+560001;Belgium: (First year A of first stage of) secondary Education
+560002;Belgium: (First year B of first stage of secondary  Education) – Remedial/Prevocationa
+560003;Belgium: Second year of first stage - preparing for vocational upper secundary education
+560004;Belgium: Second year of first stage - Preparing for all streams in mainstream upper seco
+560005;Belgium: Second & third stage general secondary education
+560006;Belgium: Second & third stage technical secondary education
+560007;Belgium: Second & third stage artistic secondary education
+560008;Belgium: Second & third stage vocational secondary education
+560009;Belgium: Part-time vocational secondary education focused on the labour market
+560010;Belgium: Special secondary education - lower secondary (training form 3 / first 3 years)
+560011;Belgium: Special secondary education - upper secondary (training form 3 / years 4 and 5)
+560012;Belgium: 1st or 2d year of general education (=First degree of general education (Fr/Ger
+560013;Belgium: 1st or 2d year of remedial education
+560014;Belgium: 1 year to help students who after 3 years in Isced 2 did not reach the required
+560015;Belgium: 3d, 4th, 5th, 6th year of general education (=Second & third degrees of general
+560016;Belgium: 3d, 4th, 5th, 6th year of  technical or artistical education (transition)
+560017;Belgium: 3d, 4th, 5th, 6th year of technical or artistical  education (qualification)
+560018;Belgium: 3d, 4th, 5th, 6th year of vocational education (= Second & third degrees of voc
+560019;Belgium: Vocational training focused on the labour market (Fr /Ger)
+560020;Belgium: Special secondary education  (training form 3) (Fr Com /Ger)
+560021;Belgium: First, second & third degrees of Special secondary education  ( form 4) (Fr Com
+560099;Belgium: Missing
+700001;Bosnia and Herzegovina: lower secondary education
+700002;Bosnia and Herzegovina: general upper secondary school
+700003;Bosnia and Herzegovina: 3-year vocational secondary school
+700004;Bosnia and Herzegovina: 4-year vocational secondary school
+700099;Bosnia and Herzegovina: Missing
+760001;Brazil: Lower secondary education
+760002;Brazil: Upper secondary education
+760003;Brazil: Vocational upper secondary education- 3 years long
+760004;Brazil: Vocational upper secondary education- 4 years long
+760099;Brazil: Missing
+960001;Brunei Darussalam: Lower Secondary Education
+960002;Brunei Darussalam: Upper Secondary General 4 Years
+960003;Brunei Darussalam: Upper Secondary General 5 Years
+960004;Brunei Darussalam: Upper Secondary Applied
+960005;Brunei Darussalam: Upper Secondary Special Applied
+960006;Brunei Darussalam: Lower Secondary Specialised
+960007;Brunei Darussalam: Upper Secondary Specialised
+960008;Brunei Darussalam: Post Secondary Education
+960009;Brunei Darussalam: Senior School Middle Years (Year 7 to Year 9)
+960010;Brunei Darussalam: Senior School Upper Years (Year 10 to Year 11)
+960011;Brunei Darussalam: Senior School Upper Years (Year 12 to Year 13)
+960012;Brunei Darussalam: Lower Secondary Tahfiz Al-Quran
+960013;Brunei Darussalam: Upper Secondary Tahfiz Al-Quran 5 Years Arabic
+960014;Brunei Darussalam: Upper Secondary Tahfiz Al-Quran 5 Years Science
+960015;Brunei Darussalam: Lower Secondary Arabic Education
+960016;Brunei Darussalam: Upper Secondary Arabic Education 4 Years Science
+960017;Brunei Darussalam: Upper Secondary Arabic Education 5 Years Science
+960018;Brunei Darussalam: Upper Secondary Arabic Education 5 Years Arabic
+960019;Brunei Darussalam: Post Secondary Arabic Education
+960020;Brunei Darussalam: Lower and Upper Secondary (Year 7 to 11)
+960099;Brunei Darussalam: Missing
+1000001;Bulgaria: Secondary education (lower)
+1000002;Bulgaria: Secondary education - general non-profiled (upper)
+1000003;Bulgaria: Secondary education - general profiled (upper)
+1000004;Bulgaria: Secondary education - vocational (upper)
+1000099;Bulgaria: Missing
+1120001;Belarus: Educational program of basic education (secondary lower)
+1120002;Belarus: Educational program of secondary education (upper)
+1120003;Belarus: Educational program of technical and vocational education
+1120004;Belarus: Educational program of secondary special education (professional training)
+1120099;Belarus: Missing
+1240001;Canada: Grades 7 - 9 (Quebec: Secondary 1 – 3 )
+1240002;Canada: Grades 10  - 12 (Quebec: Secondary 4 and 5, Newfoundland and Labrador: Level I -
+1240099;Canada: Missing
+1520001;Chile: Lower secondary education
+1520002;Chile: First cycle of upper Secondary general education
+1520003;Chile: Second cycle of upper secondary education, academic orientation
+1520004;Chile: Second cycle of upper Secondary education, technical orientation
+1520099;Chile: Missing
+1560001;B-S-J-Z (China): Secondary education (lower)
+1560002;B-S-J-Z (China): Secondary education (upper)
+1560003;B-S-J-Z (China): Vocational Junior Secondary Schools
+1560004;B-S-J-Z (China): Secondary Vocational Schools, 5-years vocational schools
+1560099;B-S-J-Z (China): Missing
+1580001;Chinese Taipei: junior high schools
+1580002;Chinese Taipei: regular senior secondary schools
+1580003;Chinese Taipei: skill-based senior secondary schools
+1580004;Chinese Taipei: comprehensive senior secondary schools (general courses)
+1580005;Chinese Taipei: comprehensive senior secondary schools (regular courses)
+1580006;Chinese Taipei: comprehensive senior secondary schools (skill-based courses)
+1580007;Chinese Taipei: Five-year junior colleges (not including the last two years)
+1580099;Chinese Taipei: Missing
+1700001;Colombia: Secondary education  (lower)
+1700002;Colombia: Secondary education (upper), academic
+1700003;Colombia: Secondary education (upper), technic
+1700099;Colombia: Missing
+1880001;Costa Rica: Secondary education (lower)
+1880002;Costa Rica: Secondary education (upper) academic
+1880003;Costa Rica: Secondary education (upper) technical
+1880099;Costa Rica: Missing
+1910001;Croatia: Gymnasium
+1910002;Croatia: Four year or five year vocational programmes
+1910003;Croatia: Art programmes
+1910004;Croatia: Vocational programmes for industry
+1910005;Croatia: Vocational programmes for crafts
+1910006;Croatia: Lower qualification vocational programmes
+1910007;Croatia: Primary school - lower secondary education
+1910099;Croatia: Missing
+1960099;Cyprus: Missing
+1960101;Cyprus: General Secondary Education - Gymnasium - Lower
+1960102;Cyprus: General Secondary Education - Gymnasium - Upper
+1960103;Cyprus: General Secondary Education - Lyceum
+1960104;Cyprus: Vocational Secondary Education
+2030001;Czech Republic: Basic school
+2030002;Czech Republic: 6, 8-year gymnasium and 8-year conservatory (lower secondary)
+2030003;Czech Republic: 6, 8-year gymnasium (upper secondary)
+2030004;Czech Republic: 4-year gymnasium
+2030005;Czech Republic: Voc/tech secondary school with maturate
+2030006;Czech Republic: Conservatory (upper secondary)
+2030007;Czech Republic: Voc/tech secondary school without maturate
+2030008;Czech Republic: Basic special/practical school
+2030009;Czech Republic: Practical school
+2030010;Czech Republic: Secondary special school, vocational education predominantly
+2030099;Czech Republic: Missing
+2080001;Denmark: Primary and lower secondary (public school, private school)
+2080002;Denmark: Continuation school (boarding)
+2080003;Denmark: Education at a production school
+2080004;Denmark: Upper secondary education (general, commercial, technical)
+2080005;Denmark: Upper secondary, vocational
+2080099;Denmark: Missing
+2140001;Dominican Republic: First cycle of Secondary Education
+2140002;Dominican Republic: Second cycle of Secondary Education
+2140003;Dominican Republic: Secondary education  Professional Modality
+2140004;Dominican Republic: Secondary education Arts Modality
+2140005;Dominican Republic: Basic Adult Education
+2140006;Dominican Republic: Secondary Adult Education: first grade
+2140007;Dominican Republic: Secondary Adult Education: second to forth grade
+2140099;Dominican Republic: Missing
+2330001;Estonia: Lower secondary
+2330002;Estonia: Upper secondary
+2330003;Estonia: Vocational upper secondary education
+2330099;Estonia: Missing
+2460001;Finland: Comprehensive secondary school
+2460002;Finland: Comprehensive secondary school, additional education
+2460003;Finland: Upper secondary school
+2460004;Finland: Upper secodary vocational school
+2460005;Finland: Double or triple examination, upper secondary school
+2460006;Finland: Other
+2460099;Finland: Missing
+2500001;France: isced2
+2500002;France: special education in isced 2
+2500003;France: isced 3a
+2500004;France: isced 3b
+2500005;France: isced 3c
+2500099;France: Missing
+2680001;Georgia: basic school
+2680002;Georgia: secondary school
+2680003;Georgia: vocational institution 1-3 levels
+2680004;Georgia: vocational institution 4-5 levels
+2680099;Georgia: Missing
+2760001;Germany: Lower secondary, some with access to upper secondary (special education)
+2760002;"Germany: Lower secondary, some with access to upper secondary; basic general education"
+2760003;"Germany: Lower secondary, access to upper secondary; extensive general education"
+2760004;"Germany: Lower secondary, access to upper secondary; academic education (exclusively stu"
+2760005;Germany: Upper secondary (exclusively students of the same track [cf. key 4])
+2760006;Germany: Lower secondary comprehensive, achievement-based access to upper secondary (wit
+2760007;Germany: Upper secondary comprehensive
+2760008;"Germany: Lower secondary comprehensive, no access to upper; basic general education (dif"
+2760009;"Germany: Lower secondary comprehensive, access to upper; extensive general education"
+2760010;"Germany: Lower secondary comprehensive, access to upper secondary; academic education"
+2760011;Germany: Upper secondary comprehensive (after lower secondary with different tracks taug
+2760012;"Germany: Lower secondary, expectedly no access to upper; basic general education"
+2760013;"Germany: Lower secondary, expectedly access to upper; extensive general education"
+2760014;"Germany: Lower secondary, no access to upper; basic general education (students of diffe"
+2760015;"Germany: Lower secondary, access to upper; extensive general education (students of diff"
+2760016;Germany: Lower secondary with access to upper (Waldorf school)
+2760017;Germany: Upper secondary (Waldorf school [cf. key 16])
+2760018;Germany: Pre-vocational training year upper secondary level
+2760019;Germany: Vocational school upper secondary level
+2760020;Germany: Vocational school
+2760021;Germany: Upper secondary (vocational), qualifying for subject-specific tertiary educatio
+2760099;Germany: Missing
+3000001;Greece: Secondary education (lower)
+3000002;Greece: Secondary education (upper)
+3000003;Greece: Technical-Vocational Schools Upper secondary education
+3000099;Greece: Missing
+3440001;Hong Kong (China): Lower Secondary in G & I Sch.
+3440002;Hong Kong (China): Upper Secondary in G & I Sch.
+3440099;Hong Kong (China): Missing
+3480001;Hungary: Primary school
+3480002;Hungary: Language Preparatory 7th grade(7Ny grade)
+3480003;Hungary: Language Preparatory 9th grade (9Ny grade)
+3480004;Hungary: Grammar school 1 (4 years long)
+3480005;Hungary: Grammar school 1 after Language Preparatory (4 years long)
+3480006;Hungary: Grammar school 2 (6 years long, grade 7-8)
+3480007;Hungary: Grammar school 2 (6 years long, grade 9-12)
+3480008;Hungary: Grammar school 2 after Language Preparatory (6 years long, grade 7-8)
+3480009;Hungary: Grammar school 2 after Language Preparatory (6 years long, grade 9-12)
+3480010;Hungary: Grammar school 3 (8 years long, grade 7-8)
+3480011;Hungary: Grammar school 3 (8 years long, grade 9-12)
+3480012;Hungary: Grammar school 3 after Language Preparatory (8 years long, grade 7-8)
+3480013;Hungary: Grammar school 3 after Language Preparatory (8 years long, grade 9-12)
+3480014;Hungary: Vocational secondary school
+3480015;Hungary: Vocational secondary school after Language Preparatory
+3480016;Hungary: Vocational school
+3480099;Hungary: Missing
+3520001;Iceland: Lower Secondary school
+3520002;Iceland: Stúdentspróf. Matriculation examination certificate (granting access to unive
+3520099;Iceland: Missing
+3600001;Indonesia: General Junior High School
+3600002;Indonesia: Islamic Junior High School
+3600003;Indonesia: General Senior High School
+3600004;Indonesia: Islamic Senior High School
+3600005;Indonesia: Vocational High School
+3600099;Indonesia: Missing
+3720001;Ireland: Junior Cert.
+3720002;Ireland: Transition Year Programme
+3720003;Ireland: Leaving Cert. Applied
+3720004;Ireland: Leaving Cert. Established
+3720005;Ireland: Leaving Cert.  Vocational
+3720006;Ireland: Youthreach
+3720007;Ireland: French Baccalaureat
+3720099;Ireland: Missing
+3760001;Israel: Primary + Lower secondary education, grades 1-8
+3760002;Israel: Primary  + Lower secondary education, grades 1-9
+3760003;Israel: Lower secondary education, grades 7-9
+3760004;Israel: Upper secondary education, grades 10-12
+3760005;Israel: 4 years Higher education, grades 9-12
+3760006;Israel: 6 years Higher education, grades 7-9
+3760007;Israel: 6 years Higher education, grades 10-12
+3760099;Israel: Missing
+3800001;Italy: Artistic, Classical, Linguistic, Music and performing arts, Scientific, Social st
+3800002;Italy: Technical Institute
+3800003;Italy: Vocational Institute, Art Institute (Industry and Craft Workers)
+3800004;Italy: Lower secondary education
+3800005;"Italy: Vocational training; Vocational Schools of Bolzano and Trento Provinces"
+3800099;Italy: Missing
+3920001;Japan: Upper secondary school (General)
+3920002;Japan: College of Technology (First 3 years)
+3920003;Japan: Upper secondary school (Vocational)
+3920004;Japan: Secondary school  (Upper division)
+3920099;Japan: Missing
+3980001;"Kazakhstan: Programm of basic secondary education (5-9 grades);"
+3980002;Kazakhstan: Program of general secondary education (10-11 grades of general secondary sc
+3980003;Kazakhstan: Programme of technical and vocational education (specialized school, college
+3980099;Kazakhstan: Missing
+4000001;Jordan: basic education
+4000099;Jordan: Missing
+4100001;Korea: Lower Secondary Education
+4100002;Korea: Upper Secondary Education
+4100003;Korea: Upper Secondary Vocational Education
+4100099;Korea: Missing
+4110001;Kosovo: Lower Seconday
+4110002;Kosovo: Upper Secondary - Gymnasiums
+4110003;Kosovo: Upper Secondary - Vocational
+4110004;Kosovo: Lower Seconday
+4110005;Kosovo: Upper Secondary - Gymnasiums
+4110006;Kosovo: Upper Secondary - Vocational
+4110099;Kosovo: Missing
+4220001;Lebanon: Secondary education (Lower)
+4220002;Lebanon: Secondary Professional education( lower), B.P.1=8 and B.P.2=9)
+4220003;Lebanon: Secondary education (upper)
+4220004;Lebanon: Secondary Technical Education (upper), BT1= 10 and BT2=11 and BT3=12
+4220005;Lebanon: Secondary Professional education( upper), LP1=10, LP2=11, LP3=12
+4220099;Lebanon: Missing
+4280001;Latvia: Basic education
+4280002;Latvia: Basic education minority
+4280003;Latvia: Special basic education
+4280004;Latvia: Basic vocational education
+4280005;Latvia: General secondary education
+4280006;Latvia: General secondary education minority
+4280007;Latvia: Secondary vocational education
+4280099;Latvia: Missing
+4400001;Lithuania: Basic School
+4400002;Lithuania: Progymnasium
+4400003;Lithuania: Gymnasium (grades 7-8)
+4400004;Lithuania: Lower Gymnasium
+4400005;Lithuania: Upper Gymnasium
+4400006;Lithuania: Vocational School
+4400099;Lithuania: Missing
+4420001;Luxembourg: Preparatory courses within modular classes of the Preparatory Regime (lower
+4420002;Luxembourg: Lower technical secondary education
+4420003;Luxembourg: Lower general secondary education
+4420004;Luxembourg: Vocational regime: a 3-year vocational education
+4420005;Luxembourg: Technician's regime: a 4-year technical education
+4420006;Luxembourg: Technical regime: a 4 to 5-year technical, commercial or social education
+4420007;Luxembourg: Upper general secondary education
+4420008;Luxembourg: Lower secondary (private and/or international) schools which do not follow t
+4420009;Luxembourg: Middle & upper secondary (private and/or int'l) schools which don't follow t
+4420099;Luxembourg: Missing
+4460001;Macao (China): Grammar or International Program at Lower Secondary Levels
+4460002;Macao (China): Grammar or International Program at Higher Secondary Levels
+4460003;Macao (China): Technical or Prevocational Program at Higher Secondary Levels
+4460099;Macao (China): Missing
+4580001;Malaysia: Science Upper Secondary
+4580002;Malaysia: Arts Upper Secondary
+4580003;Malaysia: Technical/Vocational Secondary
+4580004;Malaysia: Religious Secondary
+4580005;Malaysia: Lower Secondary
+4580099;Malaysia: Missing
+4700001;Malta: Secondary education (lower)
+4700002;Malta: Secondary education (upper)
+4700003;Malta: General Upper-secondary, post-compulsory level
+4700004;Malta: General post-secondary level
+4700005;Malta: Vocational Upper-secondary, post-compulsory level - Level 1
+4700006;Malta: Vocational Upper-secondary, post-compulsory level - Levels 2 and 3
+4700007;Malta: Vocational, post-secondary level
+4700008;Malta: General post-secondary level
+4700099;Malta: Missing
+4840001;Mexico: General Lower Secondary
+4840002;Mexico: Technical Lower Secondary
+4840003;Mexico: General Lower Secondary by Television
+4840004;Mexico: General Baccalaureate or Upper Secondary: annual plan
+4840005;Mexico: General Baccalaureate or Upper Secondary: semester plan
+4840006;Mexico: General Baccalaureate or Upper Secondary: 2 years plan
+4840007;Mexico: Technical Baccalaureate or Technical from Upper Secondary
+4840008;Mexico: Profesional  Technician
+4840099;Mexico: Missing
+4980001;Republic of Moldova: Secondary Education (lower), cycle I
+4980002;Republic of Moldova: Secondary Education (upper), cycle II
+4980003;Republic of Moldova: Profesional Technical Secondary Education
+4980004;Republic of Moldova: Post-Secondary Profesional Technical Education (lower)
+4980005;Republic of Moldova: Post-Secondary Profesional Technical Education (upper)
+4980099;Republic of Moldova: Missing
+4990001;Montenegro: general upper secondary school
+4990002;Montenegro: lower secondary or 3rd cycle of compulsory basic education
+4990003;Montenegro: 3-year vocational secondary school
+4990004;Montenegro: 4-year vocational secondary school
+4990005;Montenegro: Two-year vocational school
+4990099;Montenegro: Missing
+5040001;Morocco: Lower secondary school (preparatory)
+5040002;Morocco: Upper secondary school (Qualifying)-Original Education
+5040003;Morocco: Upper secondary school (Qualifying)-Arts and humanities
+5040004;Morocco: Upper secondary school (Qualifying)-Science
+5040005;Morocco: Upper secondary school (Qualifying)-Technology
+5040006;Morocco: Upper secondary school (Qualifying)-Vocational Baccalaureate
+5040007;Morocco: Students join vocational training center after grade 6 for only 1 year
+5040008;Morocco: Students join Vocational qualification training for 1 year after grade 9
+5040099;Morocco: Missing
+5280001;Netherlands: practical preparation for labour market
+5280002;"Netherlands: general vocational oriented; in next year tracks into BB, KB, GL, TL"
+5280003;Netherlands: Admission to ISCED 3 = MBO level 1-3, post secondary, non tertiary
+5280004;Netherlands: admission to ISCED 3 = MBO level 1-3
+5280005;Netherlands: admission to ISCED 3 = MBO tertiary level, preparing for upper secondary HA
+5280006;Netherlands: Lower secondary grades of HAVO, preparing for upper secondary HAVO or MBO
+5280007;Netherlands: Upper secondary grades of HAVO, preparing for HBO (higher vocational educat
+5280008;Netherlands: Lower secondary grades of VWO, preparing for upper secondary VWO
+5280009;Netherlands: Upper secondary grades of VWO, preparing for university
+5280010;Netherlands: Mixed 1-2, no tracking, preparing for VMBO or HAVO or VWO, determined at th
+5280099;Netherlands: Missing
+5540001;New Zealand: Lower secondary
+5540002;New Zealand: Upper secondary
+5540099;New Zealand: Missing
+5780001;Norway: Lower secondary
+5780002;Norway: Academic programme, Upper secondary
+5780003;Norway: Vovactional programme, Upper secondary
+5780099;Norway: Missing
+5910001;Panama: Lower Secondary Education (regular modality)  // regular subsystem of education
+5910002;Panama: Lower Secondary Education (multigrade modality) // regular subsystem of educatio
+5910003;Panama: Lower Secondary Education (tele-education modality) // regular subsystem of educ
+5910004;Panama: Upper Secondary Education,  academic-oriented program (regular track, grades 10-
+5910005;Panama: Upper Secondary Education,  academic-oriented program (special track, grades 10-
+5910006;Panama: Upper Secondary Education,  normal school variant // regular subsystem of educat
+5910007;Panama: Upper Secondary Education, vocational-type program (vocational diploma, middle-l
+5910008;Panama: Upper Secondary Education, vocational-type program  (industrial trades diploma)
+5910009;Panama: Upper Secondary Education, pre-vocational-type program  (industrial trades bacca
+5910010;Panama: Upper Secondary Education, pre-vocational-type program (other baccalaureate dipl
+5910011;Panama: Upper Secondary Education, pre-vocational-type program (other baccalaureate dipl
+5910012;Panama: Lower Secondary Education // no-regular subsystem of education for Youth and Adu
+5910013;Panama: Lower Secondary Education // no-regular subsystem of education for Youth and Adu
+5910014;Panama: Lower Secondary Education // no-regular subsystem of education for Youth and Adu
+5910015;Panama: Upper Secondary Education,  academic-oriented program  // no-regular subsystem o
+5910016;Panama: Upper Secondary Education,  academic-oriented program  (tele-education modality)
+5910017;Panama: Upper Secondary Education,  comprehensive program  (tecno-edúcame modality)
+5910018;Panama: Upper Secondary Education, pre-vocational-type program  (industrial trades bacca
+5910019;Panama: Upper Secondary Education, pre-vocational-type program (other baccalaureate dipl
+5910020;Panama: Upper Secondary Education, pre-vocational-type program (other baccalaureate dipl
+5910099;Panama: Missing
+6040001;Peru: Lower secondary education.Includes regular, alternately and distance program.
+6040002;Peru: Upper secondary education.Includes  regular, alternately and distance program.
+6040003;Peru: Alternative Basic Education-Advanced cycle. Includes Adults secondary program.
+6040004;Peru: Technical  Productive Education-Middle cycle
+6040005;Peru: Artistic Education Institute
+6040006;Peru: Pedagogical Institute
+6040007;Peru: Technological Institute
+6040099;Peru: Missing
+6080001;Philippines: Secondary education (lower)
+6080002;Philippines: Secondary education (upper)
+6080099;Philippines: Missing
+6160001;Poland: Gymnasium
+6160002;Poland: Lyceum - General education
+6160003;Poland: Technical School
+6160004;Poland: Basic Vocational School
+6160005;Poland: Primary School
+6160099;Poland: Missing
+6200001;Portugal: Basic Schooling - Regular Curriculum - 3rd cycle
+6200002;Portugal: Basic Schooling - Specialized Arts Curriculum - 3rd cycle
+6200003;Portugal: Basic Schooling - pre-vocational, 3rd cycle
+6200004;Portugal: Secondary Education - Scientific-Humanistic studies
+6200005;Portugal: Secondary Education - Professional
+6200006;Portugal: Secondary Education - Specialized Arts Curriculum
+6200007;Portugal: Secondary Education - Vocational
+6200099;Portugal: Missing
+6340001;Qatar: Lower Secondary Government
+6340002;Qatar: Lower Secondary Private
+6340003;Qatar: Upper Secondary Government
+6340004;Qatar: Upper Secondary Private
+6340099;Qatar: Missing
+6420001;Romania: General education, leading to the continuation of studies (lower secondary educ
+6420002;Romania:  High School (upper secondary education)
+6420003;Romania: Vocational programmes with a duration of three years  (leading to qualification
+6420099;Romania: Missing
+6430001;Russian Federation: Programme of basic general education (Lower secondary)
+6430002;Russian Federation: Programme of secondary general education (Upper secondary)
+6430003;Russian Federation: Programme of secondary professional education (technikum, colledge,
+6430099;Russian Federation: Missing
+6820001;Saudi Arabia: lower secondary education
+6820002;Saudi Arabia: secondary education with direct access to tertiary education
+6820003;Saudi Arabia: technical education with direct access to tertiary education
+6820004;Saudi Arabia: vocational education
+6820099;Saudi Arabia: Missing
+6880001;Serbia: Primary school (upper)
+6880002;Serbia: Gymnasium
+6880003;Serbia: Technical school
+6880004;Serbia: Technical vocational school
+6880005;Serbia: Medical school
+6880006;Serbia: Economy school
+6880007;Serbia: Economy vocational school
+6880008;Serbia: Agricultural school
+6880009;Serbia: Agricultural vocational school
+6880010;Serbia: Art school
+6880099;Serbia: Missing
+7020001;Singapore: Lower Secondary education
+7020002;Singapore: Upper Secondary education
+7020003;Singapore: Post Secondary education
+7020099;Singapore: Missing
+7030001;Slovak Republic: Basic school
+7030002;Slovak Republic: Vocational Basic school
+7030003;Slovak Republic: Secondary school (ISCED 2)
+7030004;Slovak Republic: Secondary school (ISCED 3)
+7030005;Slovak Republic: High School
+7030006;Slovak Republic: Secondary College - branch/class with a school leaving examination
+7030007;Slovak Republic: Secondary College - branch/class without a school leaving examination
+7030099;Slovak Republic: Missing
+7040001;Viet Nam: Secondary education (lower)
+7040002;Viet Nam: Secondary education (upper)
+7040003;Viet Nam: Continuing education centers
+7040004;Viet Nam: Vocational education
+7040099;Viet Nam: Missing
+7050001;Slovenia: Secondary general education - general and cassical gymnasiums
+7050002;Slovenia: Secondary general education - technical gymnasiums
+7050003;Slovenia: Technical education programmes
+7050004;Slovenia: Vocational education programmes of medium duration - school type and dual type
+7050005;Slovenia: Vocational education programmes of short duration
+7050006;Slovenia: Basic (elementary) education
+7050099;Slovenia: Missing
+7240001;Spain: Compulsory Secondary Education
+7240002;Spain: Basic Vocational Training
+7240003;Spain: Baccalaureat
+7240004;Spain: Intermediate Level Vocational Training
+7240099;Spain: Missing
+7520001;Sweden: Compulsory basic school
+7520002;Sweden: Upper secondary school, general orientation
+7520003;Sweden: Upper secondary school, vocational orientation
+7520004;Sweden: Upper secondary school, introduction programmes, vocational orientation
+7520005;Sweden: Upper secondary school, introduction programmes
+7520099;Sweden: Missing
+7560001;Switzerland: Secondary education, First stage
+7560002;Switzerland: Preparatory course for vocational education
+7560003;Switzerland: School preparing for the university entrance certificate
+7560004;Switzerland: Vocational baccalaureat, dual system 3-4 years
+7560005;Switzerland: Vocational education, dual system 3-4 years
+7560006;Switzerland: Intermediate diploma school
+7560007;Switzerland: Basic vocational education (2 years)
+7560099;Switzerland: Missing
+7640001;Thailand: Lower Secondary Level
+7640002;Thailand: Upper Secondary Level
+7640003;Thailand: Vocational Certificate level (Cert. of VOC.)
+7640099;Thailand: Missing
+7840001;United Arab Emirates: Secondary education (lower)
+7840002;United Arab Emirates: Secondary Education (upper)
+7840003;United Arab Emirates: Secondary education (technical -lower)
+7840004;United Arab Emirates: Secondary education (technical -upper)
+7840099;United Arab Emirates: Missing
+7920001;Turkey: Basic Education
+7920002;Turkey: General Secondary Education
+7920003;Turkey: Vocational and Technical Secondary Education
+7920099;Turkey: Missing
+8040001;Ukraine: Secondary school / secondary boarding school / sanatorium school / school of so
+8040002;Ukraine: School/ boarding school with extensive learning of  some subjects (specialized
+8040003;Ukraine: Gymnasium / boarding gymnasium
+8040004;Ukraine: Secondary school with extensive learning of philosophy, languages or culture an
+8040005;Ukraine: Lyceum / boarding lyceum
+8040006;Ukraine: Educational Complex
+8040007;Ukraine: Secondary boarding school with extensive learning of some subjects (middle scho
+8040008;Ukraine: College (Higher educational institution I - II degree)
+8040009;Ukraine: Technical School (Higher educational institution I - II degree)
+8040010;Ukraine: Vocational - technical educational institution
+8040099;Ukraine: Missing
+8070001;North Macedonia: Primary Education -  eight years
+8070002;North Macedonia: Primary Education - nine years
+8070003;North Macedonia: Secondary Education - Gymnasium/General
+8070004;North Macedonia: Secondary Education - Vocational - four years
+8070005;North Macedonia: Secondary Education - Artistic
+8070006;North Macedonia: Secondary education - Technical - two years
+8070007;North Macedonia: Secondary education - Technical - three years
+8070008;North Macedonia: Secondary education - Technical - five years
+8070099;North Macedonia: Missing
+8270001;United Kingdom (excl.Scotland): Students studying mostly toward GCSEs in England and Wal
+8270002;United Kingdom (excl.Scotland): Students studying mostly for AS or A Levels in England a
+8270003;United Kingdom (excl.Scotland): Studying towards int'l qualifications, eg. Int'l or Euro
+8270004;United Kingdom (excl.Scotland): Students studying mostly towards level 1 vocational qual
+8270005;United Kingdom (excl.Scotland): Students studying mostly towards level 2 vocational qual
+8270006;United Kingdom (excl.Scotland): Students studying mostly towards level 3 vocational qual
+8270007;United Kingdom (excl.Scotland): Studying mostly toward Entry Level certificates and qual
+8270008;United Kingdom (excl.Scotland): Students below Year 10 in England and Wales
+8270009;United Kingdom (excl.Scotland): Students studying mostly toward GCSEs in Northern Irelan
+8270010;United Kingdom (excl.Scotland): Students studying mostly for AS or A Levels in Northern
+8270011;United Kingdom (excl.Scotland): Studying towards int'l qualifications, eg. Int'l or Euro
+8270012;United Kingdom (excl.Scotland): Students studying mostly towards level 1 vocational qual
+8270013;United Kingdom (excl.Scotland): Students studying mostly towards level 2 vocational qual
+8270014;United Kingdom (excl.Scotland): Students studying mostly towards level 3 vocational qual
+8270015;United Kingdom (excl.Scotland): Studying mostly toward Entry Level certificates and qual
+8270016;United Kingdom (excl.Scotland): Students below Year 11 in Northern Ireland
+8270099;United Kingdom (excl.Scotland): Missing
+8280001;United Kingdom (Scotland): Senior Phase and studying mainly towards qualifications at SC
+8280002;United Kingdom (Scotland): Senior Phase and studying mainly towards qualifications at SC
+8280003;United Kingdom (Scotland): Senior Phase & studying towards Nat'l Progression Award or Na
+8280004;United Kingdom (Scotland): Senior Phase and studying towards Nat'l Progression Award or
+8280005;United Kingdom (Scotland): Broad general education and studying directly for some qualif
+8280006;United Kingdom (Scotland): Broad general ed./not studying directly for any of these qual
+8280007;United Kingdom (Scotland): Broad general ed./not studying directly for any of these qual
+8280099;United Kingdom (Scotland): Missing
+8400001;United States: Grades 7-9
+8400002;United States: Grades 10-12
+8400099;United States: Missing
+8580001;Uruguay: Lower Secondary
+8580002;Uruguay: Lower Secondary with a technological component
+8580003;Uruguay: Lower Secondary with a technological component in rural schools
+8580004;Uruguay: Lower secondary in Rural Primary Schools
+8580005;Uruguay: Lower Secondary with a very important technological component
+8580006;Uruguay: Vocational lower secondary
+8580007;Uruguay: General upper secondary
+8580008;Uruguay: Technical upper secondary
+8580009;Uruguay: Technical upper secondary (Artistic Baccalaureate)
+8580010;Uruguay: Vocational upper secondary with a professional component.
+8580011;Uruguay: Vocational upper secondary (Proficiency  baccalaureate)
+8580012;Uruguay: Technical upper secondary (Beauty or Textil and  Clothing)
+8580013;Uruguay: Military School
+8580099;Uruguay: Missing
